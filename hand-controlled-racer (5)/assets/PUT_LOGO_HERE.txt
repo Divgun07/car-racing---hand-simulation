@@ -1,0 +1,10 @@
+Save your IETE logo image in this folder as exactly:
+
+    iete_logo.png
+
+(PNG with a transparent background looks best, but any PNG/JPG works.)
+
+The login screen automatically loads it from here — no code changes
+needed. If this file (iete_logo.png) isn't present, the login screen
+just shows a plain text "IETE" placeholder badge instead, so the game
+still runs fine either way.
